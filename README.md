@@ -22,4 +22,4 @@ If you want to add a new resource, please check out our [RESOURCE_TEMPLATE.md](R
 
 ---
 
-*Made with ❤️ by the Data Community.*
+*Made with ❤️ by the Data All In Community.*
